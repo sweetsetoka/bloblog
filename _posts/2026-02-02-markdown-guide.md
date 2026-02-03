@@ -32,3 +32,6 @@ function hello() {
 링크는 `[텍스트](URL)` 형식으로, 이미지는 `![대체텍스트](이미지URL)` 형식으로 추가합니다.
 
 Markdown을 잘 활용하면 빠르고 깔끔하게 글을 작성할 수 있습니다.
+
+## 참고
+https://code.claude.com/docs
