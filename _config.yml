@@ -2,8 +2,8 @@ remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-title: My Blog
-description: A minimal blog about thoughts and ideas.
+title: BloBlog
+description: Playful AI coding
 
 # Build settings
 markdown: kramdown
