@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: default
 title: "Markdown 사용법"
 date: 2026-02-02
 ---
+
+# {{ page.title }}
+<small>{{ page.date | date: "%Y-%m-%d" }}</small>
 
 블로그 글 작성에 유용한 Markdown 문법을 정리했습니다.
 

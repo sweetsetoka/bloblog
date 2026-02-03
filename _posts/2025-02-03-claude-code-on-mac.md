@@ -1,8 +1,12 @@
 ---
-layout: post
+layout: default
 title: "Claude Code 맥북에서 사용하기"
 date: 2025-02-03
 ---
+
+# {{ page.title }}
+<small>{{ page.date | date: "%Y-%m-%d" }}</small>
+
 
 Claude Code는 Anthropic에서 만든 AI 코딩 어시스턴트입니다. 터미널에서 직접 사용할 수 있어 개발 워크플로우에 자연스럽게 녹아듭니다.
 

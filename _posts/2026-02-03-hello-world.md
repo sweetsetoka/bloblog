@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: default
 title: "Hello World"
 date: 2026-02-03
 ---
+
+# {{ page.title }}
+<small>{{ page.date | date: "%Y-%m-%d" }}</small>
 
 첫 번째 블로그 포스트입니다. GitHub Pages로 만든 미니멀 블로그에 오신 것을 환영합니다.
 
