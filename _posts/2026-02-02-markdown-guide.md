@@ -33,5 +33,4 @@ function hello() {
 
 Markdown을 잘 활용하면 빠르고 깔끔하게 글을 작성할 수 있습니다.
 
-## 참고
-https://code.claude.com/docs
+
