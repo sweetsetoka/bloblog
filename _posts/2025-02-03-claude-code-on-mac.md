@@ -34,4 +34,4 @@ claude
 코드 수정을 요청하면 변경 사항을 미리 보여주고 승인을 받습니다. 파일 탐색, 버그 수정, 리팩토링 등 다양한 작업을 자연어로 요청해 보세요.
 
 ## 참고
-https://code.claude.com/docs
+[https://code.claude.com/docs](https://code.claude.com/docs)
